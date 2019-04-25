@@ -5,7 +5,7 @@ Simple AutoIt BDO Boss Timer.
 Made for learning purposes.
 
 
-# How to use
+# Updating timer
 
 Just edit the file "boss.au3" with the weekly boss times.
 
